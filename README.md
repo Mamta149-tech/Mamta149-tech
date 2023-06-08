@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mamta149-tech
-- I’m interested in making android apps and websites
 - I’m have done MCA at Birla Institute of Technology, Mesra
 - Currently I am working as test automation developer using Katalon Studio for both UI and API
 - Tech enthusiast, always ready to learn and explore new technologies
